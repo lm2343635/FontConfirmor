@@ -13,6 +13,7 @@
 		771E7C642293ED5A006D3CBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 771E7C632293ED5A006D3CBA /* Assets.xcassets */; };
 		771E7C672293ED5A006D3CBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 771E7C652293ED5A006D3CBA /* LaunchScreen.storyboard */; };
 		771E7C6F2293EECE006D3CBA /* ConfigViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 771E7C6E2293EECD006D3CBA /* ConfigViewController.swift */; };
+		7739D6ED23138B5D004A12E3 /* FOT-KafuTechnoStd-U.otf in Resources */ = {isa = PBXBuildFile; fileRef = 77B8741423138A1A000973FE /* FOT-KafuTechnoStd-U.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		771E7C662293ED5A006D3CBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		771E7C682293ED5A006D3CBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		771E7C6E2293EECD006D3CBA /* ConfigViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigViewController.swift; sourceTree = "<group>"; };
+		77B8741423138A1A000973FE /* FOT-KafuTechnoStd-U.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FOT-KafuTechnoStd-U.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				771E7C632293ED5A006D3CBA /* Assets.xcassets */,
 				771E7C652293ED5A006D3CBA /* LaunchScreen.storyboard */,
 				771E7C682293ED5A006D3CBA /* Info.plist */,
+				77B8741423138A1A000973FE /* FOT-KafuTechnoStd-U.otf */,
 			);
 			path = FontConfirmor;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				771E7C672293ED5A006D3CBA /* LaunchScreen.storyboard in Resources */,
+				7739D6ED23138B5D004A12E3 /* FOT-KafuTechnoStd-U.otf in Resources */,
 				771E7C642293ED5A006D3CBA /* Assets.xcassets in Resources */,
 				771E7C622293ED59006D3CBA /* Main.storyboard in Resources */,
 			);

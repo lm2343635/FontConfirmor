@@ -37,11 +37,11 @@ class FontsTableViewController: UITableViewController {
         let size = CGFloat(sizes[indexPath.row])
         if let fontLabel = cell.viewWithTag(1) as? UILabel {
             fontLabel.text = String(sizes[indexPath.row])
-            fontLabel.font = UIFont.systemFont(ofSize: size, weight: fontWeight)
+            fontLabel.font = UIFont(name: "FOT-KafuTechno Std", size: size)
         }
         if let textLabel = cell.viewWithTag(2) as? UILabel {
             textLabel.text = text
-            textLabel.font = UIFont.systemFont(ofSize: size, weight: fontWeight)
+            textLabel.font = UIFont(name: "FOT-KafuTechno Std", size: size)
         }
         return cell
     }
